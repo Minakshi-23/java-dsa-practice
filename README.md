@@ -10,5 +10,8 @@ Programs included:
 - Binary Search
 - Bubble Sort
 - Reverse String
+- Merge Sort
+- Quick Sort
+- Longest Substring
 
 These programs help in understanding basic algorithm logic and Java programming.
